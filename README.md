@@ -1,8 +1,14 @@
-# All About Anime
+# Anime README GitHub Page
 
-Anime is a style of Japanese film and television animation, typically aimed at adults as well as children. It covers a wide range of genres, from action and adventure to romance and horror.
+This is a simple GitHub Page for an anime-themed README.
 
-Some popular anime include:
-*   Attack on Titan
-*   Death Note
-*   Spirited Away
+## How to Use
+
+1.  Clone this repository.
+2.  Customize the `index.html` and `style.css` files to your liking.
+3.  Push the changes to your GitHub repository.
+4.  Enable GitHub Pages in your repository settings.
+
+## Credits
+
+Inspired by the many creative anime-themed READMEs on GitHub.
